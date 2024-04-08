@@ -1,5 +1,5 @@
 # gitTest
-Local Local 
+Local 
 helloworld
 helloworld
 helloworld
