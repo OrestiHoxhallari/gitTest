@@ -1,3 +1,4 @@
+REMOTE
 # gitTest
 Local 
 helloworld
